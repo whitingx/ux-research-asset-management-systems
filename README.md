@@ -5,6 +5,7 @@ Collection of information on current options around UX related asset management 
 
 | System Name | Location | Licence | Security |
 | --- | --- | --- | --- |
+| `dovetail` | ☁️ External | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? |
 | `NOMNOM` | ☁️ External | ?? | ?? |
 | `Polaris` | ?? | ?? | ?? |
@@ -12,14 +13,17 @@ Collection of information on current options around UX related asset management 
 
 ## Systems
 
-### Polaris
-https://www.wework.com/blog/posts/democratizing-ux
+### dovetail
+https://dovetailapp.com/
 
 ### Mosaiq
 http://nasdaqdesign.com/mosaiq/
 
 ### NOMNOM
 https://nomnom.it/
+
+### Polaris
+https://www.wework.com/blog/posts/democratizing-ux
 
 ### talebook
 http://talebook.io/
