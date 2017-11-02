@@ -3,15 +3,15 @@ Collection of information on current options around UX related asset management 
 
 ## Feature Matrix
 
-| System Name | Location | Licence | Security | Documents | Images | Video | Audio |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| `Airtable` | ☁️ External | ?? | ?? | ✅ | ✅ | ✅  | ✅  |
-| `Dovetail` | ☁️ External | ?? | ?? | ✅ | ✅ | ?? | ?? |
-| `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
-| `NOMNOM` | ☁️ External | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
-| `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
-| `Productboard` |  ☁️ External | ?? | ?? | ✅ | ?? | ?? | ?? |
-| `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? |
+| System Name | Location | Licence | Security | Permissions | Documents | Images | Video | Audio |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `Airtable` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅  | ✅  |
+| `Dovetail` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ?? | ?? |
+| `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
+| `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
+| `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
+| `Productboard` |  ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? |
+| `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 
 ## Systems
 
