@@ -3,17 +3,18 @@ Collection of information on current options around UX related asset management 
 
 ## Feature Matrix
 
-| System Name | Location | Licence | Security |
-| --- | --- | --- | --- |
-| `dovetail` | ☁️ External | ?? | ?? |
-| `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? |
-| `NOMNOM` | ☁️ External | ?? | ?? |
-| `Polaris` | ?? | ?? | ?? |
-| `talebook` | ?? | ?? | ?? |
+| System Name | Location | Licence | Security | Text | Video | Audio |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Dovetail` | ☁️ External | ?? | ?? | ?? | ?? | ?? |
+| `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ?? | ?? | ?? |
+| `NOMNOM` | ☁️ External | ?? | ?? | ?? | ?? | ?? |
+| `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? |
+| `Productboard` |  ?? | ?? | ?? | ✅ | ?? | ?? |
+| `Talebook` | ?? | ?? | ?? | ?? | ?? | ?? |
 
 ## Systems
 
-### dovetail
+### Dovetail
 https://dovetailapp.com/
 
 ### Mosaiq
@@ -25,5 +26,8 @@ https://nomnom.it/
 ### Polaris
 https://www.wework.com/blog/posts/democratizing-ux
 
-### talebook
+### Productboard
+https://www.productboard.com/
+
+### Talebook
 http://talebook.io/
