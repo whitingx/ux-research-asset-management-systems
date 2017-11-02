@@ -3,8 +3,9 @@ Collection of information on current options around UX related asset management 
 
 ## Feature Matrix
 
-| System Name | Location | Licence | Security | Text | Images | Video | Audio |
+| System Name | Location | Licence | Security | Documents | Images | Video | Audio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `Airtable` | ☁️ External | ?? | ?? | ✅ | ✅ | ✅  | ✅  |
 | `Dovetail` | ☁️ External | ?? | ?? | ✅ | ✅ | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
 | `NOMNOM` | ☁️ External | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
@@ -13,6 +14,9 @@ Collection of information on current options around UX related asset management 
 | `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? |
 
 ## Systems
+
+### Airtable
+https://airtable.com/
 
 ### Dovetail
 https://dovetailapp.com/
