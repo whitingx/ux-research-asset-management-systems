@@ -18,20 +18,34 @@ Collection of information on current options around UX related asset management 
 ### Airtable
 https://airtable.com/
 
+---
+
 ### Dovetail
 https://dovetailapp.com/
+
+---
 
 ### Mosaiq
 http://nasdaqdesign.com/mosaiq/
 
+![Nasdaq Mosaiq Screenshot](https://github.com/whitingx/ux-asset-management-systems/blob/master/img/nasdaq-mosaiq.png "Nasdaq Mosaiq Screenshot")
+
+---
+
 ### NOMNOM
 https://nomnom.it/
+
+---
 
 ### Polaris
 https://www.wework.com/blog/posts/democratizing-ux
 
+---
+
 ### Productboard
 https://www.productboard.com/
+
+---
 
 ### Talebook
 http://talebook.io/
