@@ -6,6 +6,7 @@ Collection of information on current options around UX related asset management 
 | System Name | Location | Licence | Security | Permissions | Documents | Images | Video | Audio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `Airtable` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅  | ✅  |
+| `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
 | `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
@@ -16,24 +17,34 @@ Collection of information on current options around UX related asset management 
 ## Systems
 
 ### Airtable
-https://airtable.com/
+https://airtable.com/<br />
+https://twitter.com/airtable
+
+---
+
+### Aurelius
+https://www.aureliuslab.com<br />
+https://twitter.com/AureliusLab
 
 ---
 
 ### Dovetail
-https://dovetailapp.com/
+https://dovetailapp.com/<br />
+https://twitter.com/heydovetail
 
 ---
 
 ### Mosaiq
-http://nasdaqdesign.com/mosaiq/
+http://nasdaqdesign.com/mosaiq/<br />
+https://twitter.com/NasdaqDesign
 
 ![Nasdaq Mosaiq Screenshot](https://github.com/whitingx/ux-asset-management-systems/blob/master/img/nasdaq-mosaiq.png "Nasdaq Mosaiq Screenshot")
 
 ---
 
 ### NOMNOM
-https://nomnom.it/
+https://nomnom.it/<br />
+https://twitter.com/HeyNomNom
 
 ---
 
@@ -43,7 +54,8 @@ https://www.wework.com/blog/posts/democratizing-ux
 ---
 
 ### Productboard
-https://www.productboard.com/
+https://www.productboard.com/<br />
+https://twitter.com/productboard
 
 ---
 
