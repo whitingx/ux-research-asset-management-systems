@@ -32,13 +32,15 @@ https://twitter.com/AureliusLab
 https://dovetailapp.com/<br />
 https://twitter.com/heydovetail
 
+<img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/dovetail.png" width="400" alt="Dovetail Screenshot">
+
 ---
 
 ### Mosaiq
 http://nasdaqdesign.com/mosaiq/<br />
 https://twitter.com/NasdaqDesign
 
-![Nasdaq Mosaiq Screenshot](https://github.com/whitingx/ux-asset-management-systems/blob/master/img/nasdaq-mosaiq.png "Nasdaq Mosaiq Screenshot")
+<img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/nasdaq-mosaiq.png" width="400" alt="Nasdaq Mosaiq Screenshot">
 
 ---
 
