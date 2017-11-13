@@ -7,7 +7,9 @@ Collection of information on current options around UX related asset management 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `Airtable` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅  | ✅  |
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? |
+| `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ?? | ?? |
+| `Milanote` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
 | `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
 | `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
@@ -28,11 +30,23 @@ https://twitter.com/AureliusLab
 
 ---
 
+### DEVONthink
+http://www.devontechnologies.com/products/devonthink/overview.html<br />
+https://twitter.com/devontech
+
+---
+
 ### Dovetail
 https://dovetailapp.com/<br />
 https://twitter.com/heydovetail
 
 <img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/dovetail.png" width="400" alt="Dovetail Screenshot">
+
+---
+
+### Milanote
+https://www.milanote.com<br />
+https://twitter.com/milanoteapp
 
 ---
 
