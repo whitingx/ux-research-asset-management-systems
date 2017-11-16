@@ -9,6 +9,7 @@ Collection of information on current options around UX related asset management 
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ?? | ?? |
+| `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ?? | ?? |
 | `Milanote` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
 | `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ |
@@ -41,6 +42,12 @@ https://dovetailapp.com/<br />
 https://twitter.com/heydovetail
 
 <img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/dovetail.png" width="400" alt="Dovetail Screenshot">
+
+---
+
+### Dropbox Paper
+https://www.dropbox.com/paper<br />
+https://twitter.com/dropbox
 
 ---
 
