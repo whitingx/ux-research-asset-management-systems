@@ -6,7 +6,7 @@ Collection of information on current options around UX related asset management 
 | System Name | Location | Licence | Security | Permissions | Text | Documents | Images | Video | Audio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `Airtable` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
-| `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
+| `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
