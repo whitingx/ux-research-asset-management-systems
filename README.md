@@ -18,6 +18,7 @@ Collection of information on current options around UX related asset management 
 | `Productboard` |  ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Reframer` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
+| `UX360` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 
 ## Systems
 
@@ -98,3 +99,9 @@ https://twitter.com/optimalworkshop
 
 ### Talebook
 http://talebook.io/
+
+---
+
+### UX360
+https://www.tandemseven.com/ux360-customer-user-experience-software-tools/
+https://twitter.com/TandemSeven
