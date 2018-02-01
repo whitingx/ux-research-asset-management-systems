@@ -103,5 +103,5 @@ http://talebook.io/
 ---
 
 ### UX360
-https://www.tandemseven.com/ux360-customer-user-experience-software-tools/
+https://www.tandemseven.com/ux360-customer-user-experience-software-tools/<br />
 https://twitter.com/TandemSeven
