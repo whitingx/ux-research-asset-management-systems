@@ -99,7 +99,7 @@ https://twitter.com/optimalworkshop
 ---
 
 ## Shipright
-https://shipright.co/?source=twuxadqual <br />
+https://shipright.co/ <br />
 https://twitter.com/shiprighthq
 
 ---
