@@ -42,8 +42,7 @@ https://twitter.com/devontech
 ---
 
 ### Dovetail
-https://dovetailapp.com/<br />
-https://twitter.com/heydovetail
+https://dovetailapp.com/
 
 <img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/dovetail.png" width="400" alt="Dovetail Screenshot">
 
