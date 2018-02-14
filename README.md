@@ -8,11 +8,11 @@ Collection of information on current options around UX related asset management 
 | `Airtable` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
-| `Dovetail` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? |
+| `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/privacy) | [Link](https://dovetailapp.com/security) | — | ✅ | — | — | — | — |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `Milanote` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? |
-| `Mosaiq` | 🖥 Internal (self-hosted Wordpress intall) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
+| `Mosaiq` | 🖥 Internal (self-hosted Wordpress install) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Productboard` |  ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
