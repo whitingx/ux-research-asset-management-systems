@@ -12,6 +12,7 @@ Collection of information on current options around UX related asset management 
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/privacy) | [Link](https://dovetailapp.com/security) | — | ✅ | — | — | — | — |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
+| `FlexUX` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Milanote` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress install) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -65,6 +66,11 @@ https://twitter.com/dropbox
 ### Fieldbook
 https://fieldbook.com/<br />
 https://twitter.com/fieldbookapp
+
+---
+
+### FlexUX
+http://flexux.com.au/
 
 ---
 
