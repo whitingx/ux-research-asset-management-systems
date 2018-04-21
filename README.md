@@ -9,7 +9,7 @@ Collection of information on current options around UX related asset management 
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `ConfirmKit` | ☁️ External | [Link](https://www.confirmkit.com/privacy) | — | — | ✅ | — | — | — | — |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
-| `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | Team collaborative | ✅ | Soon | Soon | Soon | Soon |
+| `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `FlexUX` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
@@ -51,7 +51,8 @@ https://twitter.com/devontech
 ---
 
 ### Dovetail
-https://dovetailapp.com/
+https://dovetailapp.com/<br />
+https://twitter.com/hidovetail
 
 <img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/dovetail.png" width="400" alt="Dovetail Screenshot">
 
