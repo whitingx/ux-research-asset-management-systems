@@ -9,7 +9,7 @@ Collection of information on current options around UX related asset management 
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `ConfirmKit` | ☁️ External | [Link](https://www.confirmkit.com/privacy) | — | — | ✅ | — | — | — | — |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
-| `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/privacy) | [Link](https://dovetailapp.com/security) | — | ✅ | — | — | — | — |
+| `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | Team collaborative | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `FlexUX` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
