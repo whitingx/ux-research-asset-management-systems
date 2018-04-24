@@ -13,6 +13,7 @@ Collection of information on current options around UX related asset management 
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `FlexUX` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
+| `Insights` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Milanote` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress install) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -71,6 +72,12 @@ https://twitter.com/fieldbookapp
 
 ### FlexUX
 http://flexux.com.au/
+
+---
+
+### Insights
+https://justaskusers.com/insights/features/<br />
+https://twitter.com/justaskusers
 
 ---
 
