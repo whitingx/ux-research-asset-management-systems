@@ -123,6 +123,8 @@ https://twitter.com/optimalworkshop
 https://shipright.co/<br />
 https://twitter.com/shiprighthq
 
+<img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/shipright.png" width="420" alt="Shipright Screenshot">
+
 ---
 
 ### Talebook
