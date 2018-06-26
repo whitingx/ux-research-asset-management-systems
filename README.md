@@ -7,6 +7,7 @@ Collection of information on current options around UX related asset management 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `Airtable` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
+| `Beacon` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `ConfirmKit` | ☁️ External | [Link](https://www.confirmkit.com/privacy) | — | — | ✅ | — | — | — | — |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
@@ -36,6 +37,12 @@ https://twitter.com/airtable
 ### Aurelius
 https://www.aureliuslab.com<br />
 https://twitter.com/AureliusLab
+
+---
+
+### Beacon
+http://www.experiencebeacon.io/<br />
+https://twitter.com/ExpBeacon
 
 ---
 
