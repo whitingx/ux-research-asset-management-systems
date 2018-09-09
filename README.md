@@ -21,6 +21,7 @@ Collection of information on current options around UX related asset management 
 | `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Productboard` |  ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
+| `Qualdesk` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Reframer` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Shipright` | ☁️ External | [Link](https://shipright.co/legal/privacy-policy.pdf) | ?? | — | ✅ | ?? | Planned | Planned | Planned |
 | `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
@@ -123,6 +124,12 @@ https://www.wework.com/blog/posts/democratizing-ux
 ### Productboard
 https://www.productboard.com/<br />
 https://twitter.com/productboard
+
+---
+
+### Qualdesk
+https://www.qualdesk.io/<br />
+https://twitter.com/qualdesk
 
 ---
 
