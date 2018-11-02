@@ -25,6 +25,7 @@ Collection of information on current options around UX related asset management 
 | `Qualdesk` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Reframer` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Shipright` | ☁️ External | [Link](https://shipright.co/legal/privacy-policy.pdf) | ?? | — | ✅ | ?? | Planned | Planned | Planned |
+| `Sticktail` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `UX360` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 
@@ -150,6 +151,11 @@ https://shipright.co/<br />
 https://twitter.com/shiprighthq
 
 <img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/shipright.png" width="420" alt="Shipright Screenshot">
+
+---
+
+### Sticktail
+https://sticktailapp.com/
 
 ---
 
