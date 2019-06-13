@@ -12,15 +12,16 @@ Collection of information on current options around UX related asset management 
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
+| `EnjoyHQ` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `FlexUX` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Forest` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ✅ | ✅ |
 | `Gleanly` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Handrail` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Insights` | ☁️ External | ?? | ?? | ?? | ✅ | ??  | ✅ | ?? | ✅?? |
+| `MAXQDA` | 🖥 Internal | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Milanote` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? |
 | `Mosaiq` | 🖥 Internal (self-hosted Wordpress install) | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
-| `NOMNOM` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Notion` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Personify` | 🔒 Private/In House | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
@@ -81,6 +82,12 @@ https://twitter.com/dropbox
 
 ---
 
+### EnjoyHQ
+https://getenjoyhq.com/<br />
+https://twitter.com/heyenjoyhq
+
+---
+
 ### Fieldbook
 https://fieldbook.com/<br />
 https://twitter.com/fieldbookapp
@@ -114,6 +121,12 @@ https://twitter.com/justaskusers
 
 ---
 
+### MAXQDA
+https://www.maxqda.com/<br />
+https://twitter.com/VerbiSoftware
+
+---
+
 ### Milanote
 https://www.milanote.com<br />
 https://twitter.com/milanoteapp
@@ -125,12 +138,6 @@ http://nasdaqdesign.com/mosaiq/<br />
 https://twitter.com/NasdaqDesign
 
 <img src="https://github.com/whitingx/ux-asset-management-systems/blob/master/img/nasdaq-mosaiq.png" width="400" alt="Nasdaq Mosaiq Screenshot">
-
----
-
-### NOMNOM
-https://nomnom.it/<br />
-https://twitter.com/HeyNomNom
 
 ---
 
