@@ -30,6 +30,7 @@ Collection of information on current options around UX related asset management 
 | `SoundingBox` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ✅ | ✅ |
 | `Sticktail` | ☁️ External | [link](https://sticktailapp.com/privacy-policy/) | [link](https://sticktailapp.com/terms-of-service/) | Admin, Read an write, Read only | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
+| `UserBit` | ☁️ External | [Link](https://userbitapp.com/terms) | [Link](https://userbitapp.com/security) | ?? | ✅ | ✅ | ✅ | ?? | ?? |
 | `UX360` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 
 ## Systems
@@ -181,6 +182,14 @@ https://sticktailapp.com/
 
 ### Talebook
 http://talebook.io/
+
+---
+
+### UserBit
+https://userbitapp.com/<br/>
+https://twitter.com/userbitapp
+
+<img src="https://userbitapp.com/img/laptop-synthesis-v2.a5212435.png" width="420" alt="UserBit Screenshot">
 
 ---
 
