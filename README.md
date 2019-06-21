@@ -9,6 +9,7 @@ Collection of information on current options around UX related asset management 
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Beacon` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `ConfirmKit` | ☁️ External | [Link](https://www.confirmkit.com/privacy) | — | — | ✅ | — | — | — | — |
+| `Consider.ly` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
@@ -59,6 +60,12 @@ https://twitter.com/ExpBeacon
 https://www.confirmkit.com/
 
 <img src="https://github.com/whitingx/ux-research-asset-management-systems/blob/master/img/confirmkit.png" width="400" alt="ConfirmKit Dashboard Screenshot">
+
+---
+
+### Consider.ly
+https://consider.ly/<br />
+https://twitter.com/consider_ly
 
 ---
 
