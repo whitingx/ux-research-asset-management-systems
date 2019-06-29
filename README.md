@@ -6,6 +6,7 @@ Collection of information on current options around UX related asset management 
 | System Name | Location | Licence | Security | Permissions | Text | Documents | Images | Video | Audio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `Airtable` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
+| `Atomo` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Beacon` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `ConfirmKit` | ☁️ External | [Link](https://www.confirmkit.com/privacy) | — | — | ✅ | — | — | — | — |
@@ -41,6 +42,11 @@ Collection of information on current options around UX related asset management 
 ### Airtable
 https://airtable.com/<br />
 https://twitter.com/airtable
+
+---
+
+### Atomo
+http://www.atomo.co/
 
 ---
 
