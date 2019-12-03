@@ -9,6 +9,7 @@ Collection of information on current options around UX related asset management 
 | `Atomo` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Aurelius` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Beacon` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
+| `Condens` | ☁️ External | [Link](https://condens.io/terms) | [Link](https://condens.io/privacy) | sharable read-only content | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `ConfirmKit` | ☁️ External | [Link](https://www.confirmkit.com/privacy) | — | — | ✅ | — | — | — | — |
 | `Consider.ly` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
