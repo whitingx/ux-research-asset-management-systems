@@ -17,6 +17,7 @@ Collection of information on current options around UX related asset management 
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
 | `EnjoyHQ` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
+| `Filo` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `FlexUX` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
 | `Forest` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ✅ | ✅ |
 | `Gleanly` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
@@ -114,6 +115,12 @@ https://twitter.com/heyenjoyhq
 ### Fieldbook
 https://fieldbook.com/<br />
 https://twitter.com/fieldbookapp
+
+---
+
+### Filo
+https://filo.io/<br />
+https://twitter.com/filoresearch
 
 ---
 
