@@ -30,7 +30,7 @@ Collection of information on current options around UX related asset management 
 | `Personify` | 🔒 Private/In House | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Productboard` |  ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
-| `Qualdesk` | ☁️ External | [Link](https://www.qualdesk.io/legal/software-terms-and-conditions/) | ?? | ?? | ✅ | Planned | Planned | Planned | Planned |
+| `Qualdesk` | ☁️ External | [Link](https://www.qualdesk.com/legal/software-terms-and-conditions/) | [Link](http://qualdesk.com/features/privacy-and-security) | [Link(https://www.qualdesk.com/features/privacy-and-security/permissions)] | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Reframer` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Shipright` | ☁️ External | [Link](https://shipright.co/legal/privacy-policy.pdf) | ?? | — | ✅ | ?? | Planned | Planned | Planned |
 | `SoundingBox` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ✅ | ✅ |
@@ -194,7 +194,7 @@ https://twitter.com/productboard
 ---
 
 ### Qualdesk
-https://www.qualdesk.io/<br />
+https://www.qualdesk.com/<br />
 https://twitter.com/qualdesk
 
 ---
