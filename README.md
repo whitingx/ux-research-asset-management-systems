@@ -16,6 +16,7 @@ Collection of information on current options around UX related asset management 
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
 | `EnjoyHQ` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
+| `Epiphany` | ☁️ External | ?? | ?? | ?? | ✅ | ??  | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `Filo` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `FlexUX` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
@@ -109,6 +110,12 @@ https://twitter.com/dropbox
 ### EnjoyHQ
 https://getenjoyhq.com/<br />
 https://twitter.com/heyenjoyhq
+
+---
+
+### Epiphany
+https://www.getepiphany.com/<br />
+https://twitter.com/get_epiphany
 
 ---
 
