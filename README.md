@@ -15,7 +15,7 @@ Collection of information on current options around UX related asset management 
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
-| `EnjoyHQ` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
+| `EnjoyHQ` | ☁️ External | [Link](https://documentation.getenjoyhq.com/article/x5ggyachyl-privacy-policy) | [Link](https://documentation.getenjoyhq.com/article/2xi4rs8ixs-security) | [Link](https://documentation.getenjoyhq.com/article/38tllchl3p-users-and-permissions) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Epiphany` | ☁️ External | ?? | ?? | ?? | ✅ | ??  | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `Filo` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
