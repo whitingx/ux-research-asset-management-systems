@@ -85,7 +85,7 @@ https://www.confirmkit.com/
 https://consider.ly/<br />
 https://twitter.com/consider_ly
 
-<img src="https://github.com/whitingx/ux-research-asset-management-systems/blob/master/img/considerly.png" width="400" alt="Considerly Screenshot">
+<img src="https://github.com/whitingx/ux-research-asset-management-systems/blob/master/img/considerly.jpeg" width="400" alt="Considerly Screenshot">
 
 ---
 
