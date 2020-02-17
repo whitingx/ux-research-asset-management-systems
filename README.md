@@ -11,7 +11,7 @@ Collection of information on current options around UX related asset management 
 | `Beacon` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Condens` | ☁️ External | [Link](https://condens.io/terms) | [Link](https://condens.io/data-security) | sharable read-only content | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `ConfirmKit` | ☁️ External | [Link](https://www.confirmkit.com/privacy) | — | — | ✅ | — | — | — | — |
-| `Consider.ly` | ☁️ External | ?? | ?? | ?? | ?? | ??  | ?? | ?? | ?? |
+| `Consider.ly` | ☁️ External | [Link](https://consider.ly/terms/) | [Link](https://consider.ly/privacy/) | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
@@ -84,6 +84,8 @@ https://www.confirmkit.com/
 ### Consider.ly
 https://consider.ly/<br />
 https://twitter.com/consider_ly
+
+<img src="https://github.com/whitingx/ux-research-asset-management-systems/blob/master/img/considerly.png" width="400" alt="Considerly Screenshot">
 
 ---
 
