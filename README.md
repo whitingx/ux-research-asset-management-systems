@@ -242,8 +242,6 @@ http://talebook.io/
 https://userbitapp.com/<br/>
 https://twitter.com/userbitapp
 
-<img src="https://userbitapp.com/img/laptop-synthesis-v2.a5212435.png" width="420" alt="UserBit Screenshot">
-
 ---
 
 ### UX360
