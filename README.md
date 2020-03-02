@@ -15,7 +15,7 @@ Collection of information on current options around UX related asset management 
 | `DEVONthink` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Dovetail` | ☁️ External | [Link](https://dovetailapp.com/legal/privacy) | [Link](https://dovetailapp.com/product/security) | [Link](https://dovetailapp.com/help/teams) | ✅ | Soon | Soon | Soon | Soon |
 | `Dropbox Paper` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ✅ | ?? | ?? | ?? |
-| `EnjoyHQ` | ☁️ External | ?? | ?? | ?? | ✅ | ✅ | ✅ | ✅ | ✅ |
+| `EnjoyHQ` | ☁️ External | [Link](https://documentation.getenjoyhq.com/article/x5ggyachyl-privacy-policy) | [Link](https://documentation.getenjoyhq.com/article/2xi4rs8ixs-security) | [Link](https://documentation.getenjoyhq.com/article/38tllchl3p-users-and-permissions) / [Link](https://documentation.getenjoyhq.com/article/2t182msnli-sharing-your-findings) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Epiphany` | ☁️ External | ?? | ?? | ?? | ✅ | ??  | ?? | ?? | ?? |
 | `Fieldbook` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
 | `Filo` | ☁️ External | ?? | ?? | ?? | ✅ | ✅  | ✅ | ✅ | ✅ |
@@ -31,7 +31,7 @@ Collection of information on current options around UX related asset management 
 | `Personify` | 🔒 Private/In House | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Productboard` |  ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
-| `Qualdesk` | ☁️ External | [Link](https://www.qualdesk.com/legal/software-terms-and-conditions/) | [Link](http://qualdesk.com/features/privacy-and-security) | [Link](https://www.qualdesk.com/features/privacy-and-security/permissions) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| `Qualdesk` | ☁️ External | [Link](https://www.qualdesk.com/legal/software-terms-and-conditions/) | [Link](http://qualdesk.com/features/privacy-and-security) | [Link](https://www.qualdesk.com/features/privacy-and-security/permissions)] | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Reframer` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Shipright` | ☁️ External | [Link](https://shipright.co/legal/privacy-policy.pdf) | ?? | — | ✅ | ?? | Planned | Planned | Planned |
 | `SoundingBox` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ✅ | ✅ |
@@ -112,6 +112,8 @@ https://twitter.com/dropbox
 ### EnjoyHQ
 https://getenjoyhq.com/<br />
 https://twitter.com/heyenjoyhq
+
+<img src="https://files.helpdocs.io/svuw0ksw83/articles/59mkhveefq/1573241621581/screen-recording-2019-11-08-at-11-33-am.gif" alt="EnjoyHQ Screenshot" width="400" />
 
 ---
 
