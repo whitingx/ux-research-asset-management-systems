@@ -1,4 +1,4 @@
-# UX Research & Asset Management Systems
+# 🗂 UX Research & Asset Management Systems
 Collection of information on current options around UX related asset management systems.
 
 ## Feature Matrix
@@ -243,8 +243,6 @@ http://talebook.io/
 ### UserBit
 https://userbitapp.com/<br/>
 https://twitter.com/userbitapp
-
-<img src="https://userbitapp.com/img/laptop-synthesis-v2.a5212435.png" width="420" alt="UserBit Screenshot">
 
 ---
 
