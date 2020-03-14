@@ -31,7 +31,6 @@ Collection of information on current options around UX related asset management 
 | `Personify` | 🔒 Private/In House | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Polaris` | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `Productboard` |  ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
-| `Prodsight` |  ☁️ External | [Link](https://www.prodsight.ai/terms-of-service/) | | [Link](https://www.prodsight.ai/security/) | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Qualdesk` | ☁️ External | [Link](https://www.qualdesk.com/legal/software-terms-and-conditions/) | [Link](http://qualdesk.com/features/privacy-and-security) | [Link](https://www.qualdesk.com/features/privacy-and-security/permissions) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `Reframer` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Shipright` | ☁️ External | [Link](https://shipright.co/legal/privacy-policy.pdf) | ?? | — | ✅ | ?? | Planned | Planned | Planned |
@@ -202,12 +201,6 @@ https://www.wework.com/blog/posts/democratizing-ux
 ### Productboard
 https://www.productboard.com/<br />
 https://twitter.com/productboard
-
----
-
-### Prodsight
-https://www.prodsight.ai/<br />
-https://twitter.com/prodsight
 
 ---
 
